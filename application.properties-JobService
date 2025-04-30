@@ -1,3 +1,5 @@
+spring.application.name=CONFIG-SERVER
+
 #PostgreSQL
 spring.datasource.url=jdbc:postgresql://localhost:5432/job
 spring.datasource.username=embarkx
